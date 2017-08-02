@@ -17,7 +17,7 @@ function isUniform(arr) {
     var i;
     for (i=0; i<(arr.length-1); i++) {
         if (arr[i] === arr[i+1]) {
-            console.log("Same");
+            console.log("Promena");
         }
         else {
             t = "False";
